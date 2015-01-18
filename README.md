@@ -1,4 +1,4 @@
-OpsWorks Rails command line Cookbook
+OpsWorks Rails command line cookbook
 ======================
 This cookbook is intended for people using Ruby on Rails on Amazon Web Services
 OpsWorks stacks. If you are referencing environment variables that you have set through
@@ -64,13 +64,12 @@ You will need to move out of that directory and back into it in order to enter t
 Contributing
 ------------
 
-e.g.
-1. Fork the repository on Github
-2. Create a named feature branch (like `add_component_x`)
-3. Write your change
-4. Write tests for your change (if applicable)
-5. Run the tests, ensuring they all pass
-6. Submit a Pull Request using Github
+1.  Fork the repository on Github
+2.  Create a named feature branch (like `add_component_x`)
+3.  Write your change
+4.  Write tests for your change (if applicable)
+5.  Run the tests, ensuring they all pass
+6.  Submit a Pull Request using Github
 
 License and Authors
 -------------------
